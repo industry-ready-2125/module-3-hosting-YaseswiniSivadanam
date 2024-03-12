@@ -1,0 +1,33 @@
+.vollkorn-VollkornFont {
+    font-family: "Vollkorn", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.imgs img {
+    margin: 10px;
+}
+
+h1{
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: none solid rgb(27, 27, 27);
+    letter-spacing: 1.08px;
+    color: rgb(27, 27, 27);
+    /* vertical-align: baseline; */
+    line-height: 33.6px;
+    margin-bottom: 25px;
+    margin-left: 200px;
+}
+
+

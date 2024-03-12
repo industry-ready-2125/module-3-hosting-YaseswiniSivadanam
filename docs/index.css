@@ -1,0 +1,182 @@
+body {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.firstBox{
+    height: 42px;
+    color:#000000;
+    background-color:#f5c52a;
+    font-size:22px;
+    font-family: open system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.firstBox p{
+
+    font-weight:400;
+    font-style:normal;
+    font-variant:normal;
+    text-decoration:none solid rgb(0, 0, 0);
+    text-align: center;
+    line-height:36px;
+    vertical-align:baseline;
+    letter-spacing:1.08px;
+    /* word-spacing:0px; */    
+}
+h3 {
+    font-size: 21px;
+}
+a {
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.vollkorn-VollkornFont {
+  font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.logoContainer {
+    height: 64;
+    width: 1232;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-items: center; */
+    /* justify-content: center; */
+}
+.logos {
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: start;
+    text-indent: 0px;
+    padding-right: 200px;
+    margin-left: 145px;
+    margin-top: 26px;
+}
+
+.VollkornFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 66px;
+    margin-left: 37px;
+    margin-bottom: 44px;
+}
+
+.fa-brands fa-facebook {
+    color: #3b5998;
+}
+.image{
+    height: 656.4px;
+    width: 844px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin-left: 200px;
+    margin-left: 145px;
+}
+.links{
+    margin-top: 0px;
+    margin-left: 345px;
+    font-family: 'Open Sans';
+    margin-bottom: 66px;
+    
+    /* justify-content: space-between; */
+}
+.links a{
+    margin-right: 31.5px;
+    color: rgb(46, 40, 21);
+    letter-spacing: 4px;
+    
+}
+a:hover{
+    color: rgb(138, 110, 19);
+}
+.sideContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(245,197,42); 
+    padding: 20px;
+    
+    
+}
+.sideContainer {
+    width: 350px;
+    height: 664px; 
+    position:absolute; 
+    top: 163.8px;
+    right: 155px;
+}
+.sideContainer h2{
+    margin-top: 226px;
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #161616;
+    letter-spacing: 2px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.sideContainer h1{
+    font-family: "Playfair Display";
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 0.828px;
+    line-height: 43.2px;
+}
+.sideContainer span{
+    font-family:  'Open Sans';
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+.sideContainer a{
+    padding: 20px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    width: 160px;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 50px;
+    letter-spacing: 2px;
+}
+.chat{
+    position: fixed;
+    height: 80px;
+    width: 90px;
+    margin-left: 1400px;
+    /* margin-top: -800px; */
+    top: 620px;
+    right: 20px;
+
+}
+.logos i{
+    color: #3b5998;
+    letter-spacing: 20px;
+    font-size: 20px;
+    
+}
+.logos .fa-instagram{
+    color: rgb(190, 34, 76);
+    margin-left: 8px;
+    font-size: 23px;
+}
+.logos .fa-x-twitter{
+    color: black;
+    margin-left: 8px;
+    font-size: 25px;
+}
+
+  
+  
